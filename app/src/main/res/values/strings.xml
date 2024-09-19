@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Наши лучшие моменты</string>
+    <string name="next_image">Следующий</string>
+    <string name="tittle">Заголовок</string>
+    <string name="disription">Описание</string>
+    <string name="Ok">Ок</string>
+    <string name="tittle_on2_actionbar">Назад</string>
+    <string name="Add">Добавить</string>
+</resources>
